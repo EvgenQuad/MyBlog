@@ -13,7 +13,7 @@
 	include_once(ROOT.'/components/Db.php');
 		
 
-	// виклик Router
+	// виклик Router 100%
 	$router = new Router();
 	$router->run();
 
